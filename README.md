@@ -1,3 +1,13 @@
+# Driver for T2U dongle
+
+### Install on robot using:
+
+```
+make
+sudo make install
+```
+
+
 ## RTL8812AU/21AU and RTL8814AU drivers
 ### Supports Realtek 8811, 8812, 8814 and 8821 chipsets
 
